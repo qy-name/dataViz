@@ -1,9 +1,9 @@
 type,value
-variable 1,2
-variable 1,4
-variable 1,1
-variable 1,2
-variable 1,4
+variable 1,3
+variable 1,10
+variable 1,6
+variable 1,0
+variable 1,3
 variable 2,5.42773821475495
 variable 2,4.13258446876803
 variable 2,3.25668226137345
